@@ -1,4 +1,7 @@
 # linux-shell
 
 
-sami_shell.c is the file
+unix_shell.c is the file
+
+compile it
+gcc unix_shell.c
